@@ -1,12 +1,14 @@
-//strings used to represent text
-//trun any primitive data type into a string by adding single/double quotes
-//escape backslash to handle special characters 
-//lenght property and toUpperCase() method
-// change the following code to make valid strings
+// make a valid string with escap character.
+//Use \n twice to start a new line 
 
-greeting3. length;
+var greeting3 = "Don't forget to grab the newspaper on your way out. You are going to be on the bus for a long time becuase of traffic.";
+greeting3
+var greeting3 = "Don\'t forget to grab the newspaper \n on your way out. \n You are going to be on the \n bus for a long time becuase of traffic.";
+greeting3
+
+//find length of greeting3
+//use toUpperCase() method to  turn greeting3 into an uppercase string
+// turn it into a shout message 
+
+greeting3.length;
 greeting3.toUpperCase();
-
-var greeting1 = 'Sam says, "hi."';
-var greeting2 = "It's great to see you!";
-
