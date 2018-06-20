@@ -4,8 +4,8 @@
 //lenght property and toUpperCase() method
 // change the following code to make valid strings
 
-var animal = 'hrose';
-var answer = 'false';
+greeting3. length;
+greeting3.toUpperCase();
 
 var greeting1 = 'Sam says, "hi."';
 var greeting2 = "It's great to see you!";
